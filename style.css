@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+}
+.colorCoder {
+  background-color: #212121;
+  padding: 100px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+#coloBox {
+  width: 300px; /* Change the width */
+  height: 40px; /* Change the height */
+  padding: 0px; /* Add padding inside the input */
+}
+.colorInfo {
+  margin-top: 50px;
+}
+p {
+  color: #f0f0f0;
+  padding: 12px;
+  margin: 5px 0;
+  font-size: 26px;
+}
